@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1596742405 source:f:\kpit internship\c programming - foundation\activity 1\arrays\reversearray.c
+	<stdio.h>
+	"ReverseArray.h"
+
+1596741354 f:\kpit internship\c programming - foundation\activity 1\arrays\reversearray.h
+
+1596742402 source:f:\kpit internship\c programming - foundation\activity 1\arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ReverseArray.h"
+	"CountMatchNumber.h"
+	"CountPosNegOddEven.h"
+	"BubbleSort.h"
+	"DeletionOfElement.h"
+
+1596741371 f:\kpit internship\c programming - foundation\activity 1\arrays\countmatchnumber.h
+
+1596742405 source:f:\kpit internship\c programming - foundation\activity 1\arrays\countmatchnumber.c
+	<stdio.h>
+	"CountMatchNumber.h"
+
+1596742405 source:f:\kpit internship\c programming - foundation\activity 1\arrays\countposnegoddeven.c
+	<stdio.h>
+	"CountPosNegOddEven.h"
+
+1596741364 f:\kpit internship\c programming - foundation\activity 1\arrays\countposnegoddeven.h
+
+1596741399 source:f:\kpit internship\c programming - foundation\activity 1\arrays\bubblesort.c
+	"BubbleSort.h"
+
+1596741378 f:\kpit internship\c programming - foundation\activity 1\arrays\bubblesort.h
+
+1596742405 source:f:\kpit internship\c programming - foundation\activity 1\arrays\deletionofelement.c
+	<stdio.h>
+	<stdlib.h>
+	"DeletionOfElement.h"
+
+1596741341 f:\kpit internship\c programming - foundation\activity 1\arrays\deletionofelement.h
+
